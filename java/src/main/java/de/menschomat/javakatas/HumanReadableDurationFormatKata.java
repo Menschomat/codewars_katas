@@ -1,5 +1,5 @@
 package de.menschomat.javakatas;
-
+//https://www.codewars.com/kata/52742f58faf5485cae000b9a/java
 public abstract class HumanReadableDurationFormatKata {
     public enum TimeUnit {
         SECOND(1, "second", "seconds"),

@@ -1,4 +1,4 @@
-package de.menschomat.Histogram.javakatas;
+package de.menschomat.javakatas;
 
 import org.junit.jupiter.api.Test;
 
